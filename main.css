@@ -1,0 +1,54 @@
+/* Fon */
+
+body {
+    background-image: url("Elefant.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+}
+
+
+/* MENU */
+
+ul {
+    font-family: cursive;
+    font-size: 29px;
+    list-style: none;
+    background-color: #8f4f14;
+    height: 49px;
+    padding: 0;
+    margin: 10px 1208px 100px 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 49px;
+    padding: 0 27px;
+    border-right: 2px solid #5100ff;
+    display: block;
+}
+
+a:hover {
+    background-color: #f0ad6e;
+}
+
+li {
+    float: left;
+}
+
+
+/* Intro */
+
+.intro {
+    font-family: cursive;
+    font-size: 95px;
+    color: #ab9a03;
+    text-align: center;
+    padding-top: 10px;
+    width: 85%;
+    max-width: 11110px;
+    max-height: 111px;
+    margin: 0 auto;
+}
